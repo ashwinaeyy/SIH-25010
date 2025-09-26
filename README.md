@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26/09/2025
+## Register Number:25015826
+## Name:ASHWIN
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,70 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+The solution focuses on introducing a Smart Agricultural Support System that integrates modern technology with traditional farming. It includes soil health monitoring, water-efficient irrigation, AI-based pest/disease detection, and farmer advisory services through a mobile application in local languages. This will help farmers make informed decisions, reduce crop losses, and increase productivity sustainably.
 
-## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+The uniqueness lies in combining IoT-enabled devices, AI-driven analytics, and community-level support hubs, making technology accessible and affordable for rural farmers.
 
-## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Technical Approach
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Technologies to be used:
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+IoT sensors for soil moisture, pH, and nutrient monitoring.
+
+AI/ML models for crop disease and pest prediction.
+
+Android mobile app for farmer advisory (local language support).
+
+Cloud computing for data storage and real-time insights.
+
+Solar-powered smart irrigation systems.
+
+Methodology and Process:
+
+Pilot Phase: Deploy sensors and mobile advisory system in selected farms.
+
+Integration: Link sensor data with AI models to provide crop-specific recommendations.
+
+Farmer Outreach: Train farmers through rural tech hubs and demonstration farms.
+
+Scaling: Expand across villages with government and cooperative partnerships.
+
+Feasibility and Viability
+
+Feasibility: Affordable IoT devices and increasing rural internet penetration make the solution practical. Partnerships with agricultural universities and government schemes will support deployment.
+
+Challenges & Risks:
+
+Farmers’ reluctance to adopt new technology.
+
+Initial cost of devices and maintenance.
+
+Training needs for rural populations.
+
+Strategies:
+
+Provide government subsidies and financial incentives.
+
+Conduct awareness programs and field demonstrations.
+
+Build farmer cooperatives to share costs and benefits.
+
+Impact and Benefits
+
+Target Audience: Farmers, agricultural cooperatives, agri-entrepreneurs, and rural youth.
+
+Social Impact: Farmer empowerment, reduced rural distress, improved food security.
+
+Economic Benefits: Increased yields, reduced input costs, better access to markets.
+
+Environmental Benefits: Reduced chemical use, improved water management, sustainable farming practices.
+
+Research and References
+
+FAO – Smart Agriculture and Sustainable Farming Practices.
+
+ICAR (Indian Council of Agricultural Research) – Reports on Digital Agriculture.
+
+Punjab Agricultural University – Studies on soil and water management.
+
+Government of India – Digital Agriculture Mission 2021–2025.
